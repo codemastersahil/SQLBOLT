@@ -1,0 +1,10 @@
+Q1: Find the title of each film ✓
+Ans: SELECT TITLE FROM MOVIE;
+Q2: Find the director of each film ✓
+Ans: SELECT DIRECTOR FROM MOVIE;
+Q3: Find the title and director of each film ✓
+Ans: SELECT TITLE,DIRECTOR FROM MOVIE;
+Q4: Find the title and year of each film ✓
+Ans: SELECT TITLE,YEAR FROM MOVIE;
+Q5: Find all the information about each film ✓
+Ans: SELECT * FROM MOVIE;
